@@ -1,9 +1,4 @@
-'''
-Name: Marilee Zafaripour
-Date: 4/21/2021
-Credits: CIS 211
-Project: Lab 04
-'''
+
 
 
 class Node():
